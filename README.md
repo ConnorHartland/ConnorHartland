@@ -7,11 +7,11 @@ Passionate about bridging the gap between development and operations. I love to 
 ### 💻 Tech Stack
 
 - Infrastructure as Code: Terraform, Ansible
-- Cloud: AWS
-- Frontend: React, TypeScript
-- Backend: Node.js, Express
+- Cloud: AWS (ECS, ECR, EC2, S3, VPC), Firebase (Firestore, Firebase Hosting)
+- Frontend: React, TypeScript, Tailwind CSS, MUI
+- Backend: Node.js, Nest.js, Express, Firebase
 - Database: MongoDB
-- Scripting: Python
+- Scripting: Python, Bash
 
 ### 🌟 Highlights
 
@@ -21,7 +21,7 @@ Passionate about bridging the gap between development and operations. I love to 
 
 ### 🔗 Connect with me
 
-- [LinkedIn](Your LinkedIn URL here)
+- [LinkedIn](https://www.linkedin.com/in/connor-hartland-88a34b114/)
 - [Personal Website](https://connorhartland.com)
 
 ### 🌱 I'm currently learning
@@ -30,9 +30,6 @@ Passionate about bridging the gap between development and operations. I love to 
 - Exploring Kubernetes
 - Looking to contribute more to open-source projects
 
-### 📈 GitHub Stats
-
-<!-- You can add GitHub stats here using tools like https://github.com/anuraghazra/github-readme-stats -->
 
 ### 🤝 Open to Collaboration
 
@@ -40,4 +37,4 @@ I'm always interested in new projects and opportunities to learn. Feel free to r
 
 ---
 
-⭐️ From [Connor](https://github.com/YourGitHubUsername)
+⭐️ From [Connor](https://github.com/ConnorHartland)
